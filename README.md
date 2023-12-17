@@ -1,1 +1,3 @@
 # InfluInsights
+InfluInsights was implemented as a project in Description and Retrieval of Audiovisual Content Course during my erasmus studies at ETSETB UPC.InfluInsights is a social media influencer analyzer tool that uses the YouTube API to fetch data about influencers performance. The tool will allow users to sort and display the most popular influencers in a niche. Its goal is to help users make data-driven decisions in their influencer marketing campaigns.Here is a scheme of the pipeline of the tool :
+More information about the project in InfluInsights final presentation
